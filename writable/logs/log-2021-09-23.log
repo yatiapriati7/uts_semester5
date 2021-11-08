@@ -1,0 +1,632 @@
+CRITICAL - 2021-09-23 02:31:14 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:31:14 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:31:36 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:32:47 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:33:50 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:33:53 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:34:36 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:34:56 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:34:57 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:39:12 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\8\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\8\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\8\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\8\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\8\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\8\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:39:36 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\8\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\8\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\8\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\8\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\8\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\8\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:40:25 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\8\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\8\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\8\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\8\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\8\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\8\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:53:46 --> syntax error, unexpected 'return' (T_RETURN), expecting ']'
+#0 C:\xampp\htdocs\8\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\8\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\8\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\8\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\8\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\8\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:54:27 --> syntax error, unexpected 'return' (T_RETURN), expecting ']'
+#0 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:56:36 --> syntax error, unexpected 'return' (T_RETURN), expecting ']'
+#0 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 02:56:38 --> syntax error, unexpected 'return' (T_RETURN), expecting ']'
+#0 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 03:44:38 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 03:44:44 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-09-23 03:47:43 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:48:42 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:48:43 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:48:44 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:49:58 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:50:20 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:51:04 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:51:07 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:51:22 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:51:23 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:51:23 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Home', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:52:37 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Hobi', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:52:38 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Hobi', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:52:39 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\ci4\app\Controllers\Home.php on line 28
+#0 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Hobi', NULL)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 04:15:51 --> syntax error, unexpected '"Nim"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 04:17:15 --> syntax error, unexpected '"Nim"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 04:17:16 --> syntax error, unexpected '"Nim"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 04:22:55 --> syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/hobi')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/hobi')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 04:23:28 --> syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/hobi')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/hobi')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 09:03:33 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ci4\app\Views\Hobi.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1092): CodeIgniter\View\View->render('Hobi', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Home.php(28): view('Hobi', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-09-23 10:37:25 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:38:11 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:40:32 --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:41:35 --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:41:37 --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:41:37 --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:41:38 --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:42:37 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:42:38 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:42:39 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:42:40 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:42:40 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:43:43 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:43:44 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:45:14 --> syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:45:52 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:45:54 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:45:56 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:45:57 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:45:57 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:51:02 --> syntax error, unexpected ','
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:51:03 --> syntax error, unexpected ','
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:51:48 --> syntax error, unexpected ','
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:51:51 --> syntax error, unexpected ','
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:51:52 --> syntax error, unexpected ','
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:51:52 --> syntax error, unexpected ','
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:54:08 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:54:09 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:54:09 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:56:24 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:56:25 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:56:25 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 10:56:36 --> syntax error, unexpected '"Nama :"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:17:35 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:18:44 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:18:45 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:18:45 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:25:51 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:25:53 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:26:39 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:26:40 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:26:40 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 12:54:38 --> syntax error, unexpected '"Tahun lulus"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 13:03:00 --> syntax error, unexpected '$pendidikan' (T_VARIABLE), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(160): CodeIgniter\Router\Router->autoRoute('home/riwayat_pe...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(702): CodeIgniter\Router\Router->handle('home/riwayat_pe...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
